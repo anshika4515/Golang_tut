@@ -1,0 +1,19 @@
+execute a golang file -> go run main.go
+go mod init variables -> make a file for good practise
+
+Types in golang
+String
+Bool
+Integer -> uint8 uint64 int8 int64 uintptr
+Floating -> float32 float64
+Complex
+Array
+Slices
+Maps
+Structs
+Pointers
+
+go env -> can tell abt golang
+
+//to convert your file for diff os
+-> GOOS="linux" go build
