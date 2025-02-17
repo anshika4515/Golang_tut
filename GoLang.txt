@@ -17,3 +17,7 @@ go env -> can tell abt golang
 
 //to convert your file for diff os
 -> GOOS="linux" go build
+
+
+//there is no inheritance in golang;
+//No super or parent 
